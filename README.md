@@ -1,2 +1,2 @@
-# Purplle-Pricing-Model(PPE)
+# Purplle-Pricing-Engine(PPE)
 Price Elasticity Module
